@@ -12,3 +12,4 @@ wipro
 amazon
 flipkart
 walmart
+venkat
